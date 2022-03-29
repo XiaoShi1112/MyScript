@@ -9,7 +9,7 @@ hostname = m.client.10010.com
 ===================
 
 [rewrite_local]
-https:\/\/m\.client\.10010\.com\/mobileserviceimportant\/smart\/smartwisdomCommon  url script-request-header https://raw.githubusercontent.com/dompling/Script/master/10010/index.js
+https:\/\/m\.client\.10010\.com\/mobileserviceimportant\/smart\/smartwisdomCommon  url script-request-header https://raw.githubusercontent.com/XiaoShi1112/MyScript/main/10010/index.js
 
  */
 
